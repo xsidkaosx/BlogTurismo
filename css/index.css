@@ -1,0 +1,17 @@
+.parallax-container {
+  min-height: 380px;
+  line-height: 0;
+  height: auto;
+  color: rgba(255,255,255,0.5);
+}
+#redes{
+  margin-top: 80px;
+  max-width: 70px;
+}
+
+@media only screen and (max-width : 992px) {
+  .titulo{
+    margin-top: 55px;
+    text-align: center;
+  }
+}
